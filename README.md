@@ -122,9 +122,6 @@
 ![主页图表](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230128-112702@2x.png "主页图表.png")
 
 #### 系统管理模块
-- 系统主页
-
-![主页](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230128-110503@2x.png "主页.png")
 
 - 菜单管理
 
